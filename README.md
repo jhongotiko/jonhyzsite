@@ -1,2 +1,2 @@
 # MySite
- This is code released from my website!
+Esse é um site, sendo produzido por mim, sem qualquer proposito, só feito **modificações** e **_testar_**
